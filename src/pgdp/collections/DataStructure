@@ -1,6 +1,0 @@
-package pgdp.collections;
-
-public interface DataStructure <T> {
-     int size();
-     boolean empty();
-}
